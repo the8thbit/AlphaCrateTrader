@@ -28,5 +28,17 @@
   "bugs": {
     "url": "https://github.com/the8thbit/AlphaCrateTrader/issues"
   },
-  "homepage": "https://github.com/the8thbit/AlphaCrateTrader#readme"
+  "homepage": "https://github.com/the8thbit/AlphaCrateTrader#readme",
+  "dependencies": {
+    "@angular/common": "^5.2.4",
+    "@angular/compiler": "^5.2.4",
+    "@angular/core": "^5.2.4",
+    "@angular/platform-browser": "^5.2.4",
+    "@angular/platform-browser-dynamic": "^5.2.4",
+    "angular": "^1.6.9",
+    "angularfire2": "^5.0.0-rc.6",
+    "firebase": "^4.9.1",
+    "rxjs": "^5.5.6",
+    "zone.js": "^0.8.20"
+  }
 }
