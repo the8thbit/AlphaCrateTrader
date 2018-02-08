@@ -1,0 +1,32 @@
+{
+  "name": "alphacratetrader",
+  "version": "1.0.0",
+  "description": "A simple tool for viewing charts on a grid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the8thbit/AlphaCrateTrader.git"
+  },
+  "keywords": [
+    "ACT",
+    "alphacratetrader",
+    "cratetrader",
+    "tradecrate",
+    "charts",
+    "finance",
+    "angular",
+    "cryptocurrency",
+    "stocks",
+    "tradingview",
+    "firebase"
+  ],
+  "author": "the8thbit",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/the8thbit/AlphaCrateTrader/issues"
+  },
+  "homepage": "https://github.com/the8thbit/AlphaCrateTrader#readme"
+}
